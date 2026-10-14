@@ -16,7 +16,7 @@
   3. Measure the **net** time saved: Evoto handling, QC and fix-up time all count.
   4. Spend credits only where they save real time.
 - **Start small.** Use about 20–30 images per client (60–90 in total). A recommendation should be ready in **about 5 weeks**.
-- **The credit cost is small; wasted runs are what hurt.** At list prices Evoto costs about **$0.05–0.10 per image** on an annual plan. A credit is charged only when a finished image is exported, and editing is free. So it pays for itself if it saves roughly **5–45 seconds** of retoucher time per image (depending on our labour rate). The real threats to margin are:
+- **The credit cost is small; wasted runs are what hurt.** At list prices Evoto costs about **$0.05–0.10 per image** on an annual plan. A credit is charged only when a finished image is exported, and editing is free. So it pays for itself if it saves roughly **5–36 seconds** of retoucher time per image (depending on our labour rate; see §4.2). The real threats to margin are:
   - credits spent on images where Evoto removes no work;
   - hidden QC and fix-up time;
   - set-up and preset upkeep.
