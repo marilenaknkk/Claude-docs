@@ -1,0 +1,43 @@
+client,task,guide_requirement,current_manual_minutes_per_image,pct_of_images_needing_task,evoto_tool,expected_fit,route_c_pass_rate_pct,avg_fixup_minutes,decision_evoto_assist_manual,owner,notes
+Proper Cloth,"Skin cleanup (blemishes, temporary marks)",,,,AI skin/blemish retouch,High,,,,,Over-smoothing; plastic-looking skin; removing permanent marks
+Proper Cloth,"Shine, redness, under-eye",,,,AI skin tools,High-Medium,,,,,Flat skin; loss of shape
+Proper Cloth,Flyaway hair,,,,Stray-hair removal,Medium,,,,,Halos at the edges; hair that looks cut off
+Proper Cloth,Removing garment creases,,,,De-wrinkle clothing,Medium (key test),,,,,Lost fabric texture; warped patterns; designed details removed
+Proper Cloth,"Lint, dust, loose threads",,,,Unverified,Unknown,,,,,Removing real fabric details
+Proper Cloth,Body or face reshaping,,,,Reshape/liquify,Low - avoid,,,,,Misrepresenting garment fit; brand policy; disclosure laws
+Proper Cloth,Backdrop cleanup and evenness,,,,"Background tools, batch",High,,,,,Shadows lost; edge artefacts
+Proper Cloth,Background removal / cut-out,,,,Bulk background remover,Medium,,,,,Hair; sheer fabric; fine edges; clipping paths
+Proper Cloth,"Overall exposure, WB and colour across a set",,,,"Presets, sync, AI colour match",High,,,,,AI Colour uploads images to the cloud
+Proper Cloth,Matching product colour to the physical sample,,,,Manual,Low - keep with retouchers,,,,,Colour errors lead to returns
+Proper Cloth,"Crop, alignment and framing to template",,,,Crop and batch tools,Medium,,,,,Template accuracy
+Proper Cloth,Ghost-mannequin / neck-joint compositing,,,,Not a core Evoto feature,Low - keep manual,,,,,
+Proper Cloth,"Detail work: stitching, hardware, logos, text",,,,,Low - keep manual,,,,,AI warping logos or text
+Proper Cloth,Resize and export to channel specs,,,,Export presets,Medium,,,,,Colour/crop-only exports are free on Desktop 6.1+
+L'Agence,"Skin cleanup (blemishes, temporary marks)",,,,AI skin/blemish retouch,High,,,,,Over-smoothing; plastic-looking skin; removing permanent marks
+L'Agence,"Shine, redness, under-eye",,,,AI skin tools,High-Medium,,,,,Flat skin; loss of shape
+L'Agence,Flyaway hair,,,,Stray-hair removal,Medium,,,,,Halos at the edges; hair that looks cut off
+L'Agence,Removing garment creases,,,,De-wrinkle clothing,Medium (key test),,,,,Lost fabric texture; warped patterns; designed details removed
+L'Agence,"Lint, dust, loose threads",,,,Unverified,Unknown,,,,,Removing real fabric details
+L'Agence,Body or face reshaping,,,,Reshape/liquify,Low - avoid,,,,,Misrepresenting garment fit; brand policy; disclosure laws
+L'Agence,Backdrop cleanup and evenness,,,,"Background tools, batch",High,,,,,Shadows lost; edge artefacts
+L'Agence,Background removal / cut-out,,,,Bulk background remover,Medium,,,,,Hair; sheer fabric; fine edges; clipping paths
+L'Agence,"Overall exposure, WB and colour across a set",,,,"Presets, sync, AI colour match",High,,,,,AI Colour uploads images to the cloud
+L'Agence,Matching product colour to the physical sample,,,,Manual,Low - keep with retouchers,,,,,Colour errors lead to returns
+L'Agence,"Crop, alignment and framing to template",,,,Crop and batch tools,Medium,,,,,Template accuracy
+L'Agence,Ghost-mannequin / neck-joint compositing,,,,Not a core Evoto feature,Low - keep manual,,,,,
+L'Agence,"Detail work: stitching, hardware, logos, text",,,,,Low - keep manual,,,,,AI warping logos or text
+L'Agence,Resize and export to channel specs,,,,Export presets,Medium,,,,,Colour/crop-only exports are free on Desktop 6.1+
+Meshki,"Skin cleanup (blemishes, temporary marks)",,,,AI skin/blemish retouch,High,,,,,Over-smoothing; plastic-looking skin; removing permanent marks
+Meshki,"Shine, redness, under-eye",,,,AI skin tools,High-Medium,,,,,Flat skin; loss of shape
+Meshki,Flyaway hair,,,,Stray-hair removal,Medium,,,,,Halos at the edges; hair that looks cut off
+Meshki,Removing garment creases,,,,De-wrinkle clothing,Medium (key test),,,,,Lost fabric texture; warped patterns; designed details removed
+Meshki,"Lint, dust, loose threads",,,,Unverified,Unknown,,,,,Removing real fabric details
+Meshki,Body or face reshaping,,,,Reshape/liquify,Low - avoid,,,,,Misrepresenting garment fit; brand policy; disclosure laws
+Meshki,Backdrop cleanup and evenness,,,,"Background tools, batch",High,,,,,Shadows lost; edge artefacts
+Meshki,Background removal / cut-out,,,,Bulk background remover,Medium,,,,,Hair; sheer fabric; fine edges; clipping paths
+Meshki,"Overall exposure, WB and colour across a set",,,,"Presets, sync, AI colour match",High,,,,,AI Colour uploads images to the cloud
+Meshki,Matching product colour to the physical sample,,,,Manual,Low - keep with retouchers,,,,,Colour errors lead to returns
+Meshki,"Crop, alignment and framing to template",,,,Crop and batch tools,Medium,,,,,Template accuracy
+Meshki,Ghost-mannequin / neck-joint compositing,,,,Not a core Evoto feature,Low - keep manual,,,,,
+Meshki,"Detail work: stitching, hardware, logos, text",,,,,Low - keep manual,,,,,AI warping logos or text
+Meshki,Resize and export to channel specs,,,,Export presets,Medium,,,,,Colour/crop-only exports are free on Desktop 6.1+
